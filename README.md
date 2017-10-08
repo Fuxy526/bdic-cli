@@ -17,13 +17,13 @@ A simple command line tool of Bing Dictionary.
 
 ### Install
 
-```sh
+```bash
 npm install -g bdic-cli
 ```
 
 ### Usage
 
-```Sh
+```bash
 bdic <word>    #search a word in brief definition mode
 bdic -c <word> #search a word in complete definition mode
 bdic -b <word> #search a word in default browser
